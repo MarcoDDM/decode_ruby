@@ -27,7 +27,7 @@ def decode_char(morse_code)
     "-.--" => "Y",
     "--.." => "Z"
   }
-  
+
   morse_dict[morse_code]
 end
 
