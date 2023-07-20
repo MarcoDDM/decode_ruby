@@ -1,12 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <img src="soyMarco.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -33,13 +24,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-**[your_project__name]** is a...
+During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+
+Let's not waste time, the pirate treasure awaits! Let's get to work.
+
+**[Decode a Morse code message]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 
 <details>
   <summary>Client</summary>
@@ -66,17 +62,19 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+
+-[x] Use 'def ...' syntax to create a function
+-[x] Use 'puts ...' To insert an output
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+Not available yet
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://marcoalmada.online)
+Comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,89 +84,63 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+### Prerequisites <a name="prerequisites"></a>
+- ✔ A professional editer such as [VS Code](https://code.visualstudio.com/download).
+- ✔ [Ruby](https://rubyinstaller.org/downloads/) installed in your machine.
+- ✔ [Git](https://git-scm.com/downloads) installed in your machine.
+- ✔ Sign in or sign up to your [Github](https://github.com/) account.
 
 ### Setup
 
-Clone this repository to your desired folder:
+To setup and install this project, follow the below steps:
+- Clone this project by the command: 
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
 ```
---->
+$ git clone https://github.com/MarcoDDM/decode_ruby.git
+```
+
+- Then switch to the project folder by the bellow query:
+
+```
+$ cd decode_ruby
+```
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+coming soon
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Coming soon
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+Coming soon
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+
+
+👤 **Author1**
+
+- GitHub: [francksefu](https://github.com/francksefu)
+- Twitter: [francksefu](https://twitter.com/franck_sefu)
+- LinkedIn: [francksefu](https://www.linkedin.com/in/franck-sefu/)
+
+👤 **Author2**
 
 - GitHub: [@MarcoDDM](https://github.com/MarcoDDM)
+- Twitter: [@twitterhandle](https://twitter.com/nerdpiola)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/marcoalmadaar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -177,9 +149,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+We will create the application (front end part)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +167,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can give a star...
+
+If you like this project, clone it to have it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,7 +176,9 @@ If you like this project you can give a star...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to my coding partners.
+> Give credit to everyone who inspired your codebase.
+
+We would like to thank Microverse for all
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,13 +186,7 @@ I would like to thank to my coding partners.
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,6 +196,6 @@ I would like to thank to my coding partners.
 
 This project is [MIT](./LICENSE) licensed.
 
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
